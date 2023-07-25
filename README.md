@@ -15,7 +15,7 @@ I was use different options in the script for reporting, like:
 I completed a project in GitHub with a README.md and a video reference in my GitHub Project.
 
 # Watch the video tutorial
-![FileSizes](URL_DE_LA_IMAGEN)
+![FileSizes](https://github.com/macumegan/ReportingScriptFileSizes/blob/6be30918b086551e9cd78f04cbddd3b3dc4bcd45/Untitled.jpg)
 [FileSizes](https://youtu.be/AqoIP_I8T0U)
 
 
